@@ -328,6 +328,7 @@ DevOps is the combination of cultural philosophies, practices, and tools that in
 - [HolmesGPT](https://github.com/robusta-dev/holmesgpt) - Open Source AI assistant that can investigate alerts and find root cause automatically.
 - [Merlinn](https://github.com/merlinn-co/merlinn) - Open-source AI on-call developer.
 - [Middleware](https://middleware.io) - A full-stack cloud observability platform. 
+- [Immortal](https://github.com/Nagendhra-web/Immortal) - Open-source self-healing engine. Detects failures in milliseconds, heals them autonomously with agentic AI, proves every action with a post-quantum signed audit trail. Single Go binary.
 - Metrics/Metrics collection
   - [Prometheus](https://prometheus.io/) - Power your metrics and alerting with a leading open-source monitoring solution.
   - [Collectd](https://github.com/collectd/collectd) - The system statistics collection daemon.
